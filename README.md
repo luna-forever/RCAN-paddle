@@ -1,4 +1,4 @@
-﻿# 论文复现：[Image Super-Resolution Using Very Deep Residual Channel Attention Networks](https://paperswithcode.com/paper/image-super-resolution-using-very-deep)
+﻿﻿# 论文复现：[Image Super-Resolution Using Very Deep Residual Channel Attention Networks](https://paperswithcode.com/paper/image-super-resolution-using-very-deep)
 
 *****
 
@@ -40,29 +40,35 @@ https://aistudio.baidu.com/aistudio/projectdetail/4203398
 |     Paddle训练     | 28.99 | 0.7913 |
 | 预训练模型权重转换 | 28.98 | 0.7910 |
 
-![image-202206111708uku](.\fig\image-20220611170828001.png)
+![image-20220611170828001.png](https://s2.loli.net/2022/06/11/NOc5HGqynaPmCph.png)
 
-![image-20220611172737254](.\fig\image-20220611172737254.png)
+![image-20220611172737254.png](https://s2.loli.net/2022/06/11/73KmaG9rfMdQiZo.png)
 
 #### **部分结果展示**
 
 ### Zebra
 
-原图![原图](.\fig\image-20220611173134818.png)ESDR![image-20220611173244056](.\fig\image-20220611173244056.png)
+原图![image-20220611173134818.png](https://s2.loli.net/2022/06/11/6hiXBDfFj4sZpyq.png)
 
-RCAN![image-20220611173324596](.\fig\image-20220611173324596.png)
+ESDR![image-20220611173244056.png](https://s2.loli.net/2022/06/11/qcnAezCLUQOvDh5.png)
+
+RCAN![image-20220611173324596.png](https://s2.loli.net/2022/06/11/yZ6kGzvnxNUq87e.png)
 
 ### Flower
 
-原图![image-20220611173448803](.\fig\image-20220611173448803.png)ESDR![image-20220611173510165](.\fig\image-20220611173510165.png)
+原图![image-20220611173448803.png](https://s2.loli.net/2022/06/11/6kv7WMBaLZCnEjR.png)
 
-RCAN![image-20220611173538691](.\fig\image-20220611173538691.png)
+ESDR![image-20220611173510165.png](https://s2.loli.net/2022/06/11/pIlysGcBjenW3od.png)
+
+RCAN![image-20220611173538691.png](https://s2.loli.net/2022/06/11/waMrtS7O1Ybd2lB.png)
 
 ### Bridge
 
-原图![image-20220611173643430](.\fig\image-20220611173643430.png)ESDR![image-20220611173701424](.\fig\image-20220611173701424.png)
+原图![image-20220611173643430.png](https://s2.loli.net/2022/06/11/DHSN5ikvtxK9wys.png)
 
-RCAN![image-20220611173725449](.\fig\image-20220611173725449.png)
+ESDR![image-20220611173701424.png](https://s2.loli.net/2022/06/11/YoCzM9tPN5ZDR74.png)
+
+RCAN![image-20220611173725449.png](https://s2.loli.net/2022/06/11/2wiI8NbmxrhcJUk.png)
 
 
 
